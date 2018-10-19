@@ -6,4 +6,5 @@ RUN yum -y install telnet
 
 USER 1001
 
+
 CMD httpd -D FOREGROUND
